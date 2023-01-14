@@ -1,0 +1,6 @@
+framework module Pods_PersonalBusiness {
+  umbrella header "Pods-PersonalBusiness-umbrella.h"
+
+  export *
+  module * { export * }
+}
